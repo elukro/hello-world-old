@@ -1,3 +1,4 @@
 # hello-world
-first repo
-just changing a bit
+first repo ##deleting "just changing a bit"
+adding "Hello. It is me"
+
